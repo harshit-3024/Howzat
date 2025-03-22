@@ -1,279 +1,253 @@
-,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Match Type,POTM,Venue,Team1,Team2,Toss_Winner,Toss_Decision,Winner,Win_Margin,Result_Type,Target_Runs,Match,Season
-0,0,0,0,League,Harshal Patel, Chennai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,2 Wickets,Wickets,160,1,2021
-1,1,1,1,League,Shikhar Dhawan, Wankhede,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,7 Wickets,Wickets,189,2,2021
-2,2,2,2,League,Nitish Rana, Chennai,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Kolkata Knight Riders,10 Runs,Runs,188,3,2021
-3,3,3,3,League,Sanju Samson, Wankhede,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field_First,Punjab Kings,4 Runs,Runs,222,4,2021
-4,4,4,4,League,Rahul Chahar, Chennai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Mumbai Indians,10 Runs,Runs,153,5,2021
-5,5,5,5,League,Glenn Maxwell, Chennai,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Royal Challengers Bangalore,6 Runs,Runs,150,6,2021
-6,6,6,6,League,Jaydev Unadkat, Wankhede,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,3 Wickets,Wickets,148,7,2021
-7,7,7,7,League,Deepak Chahar, Wankhede,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,6 Wickets,Wickets,107,8,2021
-8,8,8,8,League,Kieron Pollard, Chennai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat_First,Mumbai Indians,13 Runs,Runs,151,9,2021
-9,9,9,9,League,AB de Villiers, Chennai,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat_First,Royal Challengers Bangalore,38 Runs,Runs,205,10,2021
-10,10,10,10,League,Shikhar Dhawan, Wankhede,Punjab Kings,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,6 Wickets,Wickets,196,11,2021
-11,11,11,11,League,Moeen Ali, Wankhede,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field_First,Chennai Super Kings,45 Runs,Runs,189,12,2021
-12,12,12,12,League,Amit Mishra, Chennai,Mumbai Indians,Delhi Capitals,Mumbai Indians,Bat_First,Delhi Capitals,6 Wickets,Wickets,138,13,2021
-13,13,13,13,League,Jonny Bairstow, Chennai,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Bat_First,Sunrisers Hyderabad,9 Wickets,Wickets,121,14,2021
-14,14,14,14,League,Faf du Plessis, Wankhede,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Chennai Super Kings,18 Runs,Runs,221,15,2021
-15,15,15,15,League,Devdutt Padikkal, Wankhede,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,10 Wickets,Wickets,178,16,2021
-16,16,16,16,League,KL Rahul, Chennai,Mumbai Indians,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,9 Wickets,Wickets,132,17,2021
-17,17,17,17,League,Chris Morris, Wankhede,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,6 Wickets,Wickets,134,18,2021
-18,18,18,18,League,Ravindra Jadeja, Wankhede,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat_First,Chennai Super Kings,69 Runs,Runs,192,19,2021
-19,19,19,19,League,Prithvi Shaw, Chennai,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat_First,Chennai Super Kings,0,Draw,160,20,2021
-20,20,20,20,League,Eoin Morgan, Ahmedabad,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,5 Wickets,Wickets,124,21,2021
-21,21,21,21,League,AB de Villiers, Ahmedabad,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field_First,Royal Challengers Bangalore,1 Runs,Runs,172,22,2021
-22,22,22,22,League,Ruturaj Gaikwad, Delhi,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat_First,Chennai Super Kings,7 Wickets,Wickets,172,23,2021
-23,23,23,23,League,Quinton de Kock, Delhi,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,7 Wickets,Wickets,172,24,2021
-24,24,24,24,League,Prithvi Shaw, Ahmedabad,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,7 Wickets,Wickets,155,25,2021
-25,25,25,25,League,Harpreet Brar, Ahmedabad,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Punjab Kings,34 Runs,Runs,180,26,2021
-26,26,26,26,League,Kieron Pollard, Delhi,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,4 Wickets,Wickets,219,27,2021
-27,27,27,27,League,Jos Buttler, Delhi,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Rajasthan Royals,55 Runs,Runs,221,28,2021
-28,28,28,28,League,Mayank Agarawal, Ahmedabad,Punjab Kings,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,7 Wickets,Wickets,167,29,2021
-29,29,29,29,League,Ruturaj Gaikwad, Dubai (DICS),Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat_First,Chennai Super Kings,20 Runs,Runs,157,30,2021
-30,30,30,30,League,Varun Chakravarthy, Abu Dhabi,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat_First,Kolkata Knight Riders,9 Wickets,Wickets,93,31,2021
-31,31,31,31,League,Kartik Tyagi, Dubai (DICS),Rajasthan Royals,Punjab Kings,Punjab Kings,Field_First,Rajasthan Royals,2 Runs,Runs,186,32,2021
-32,32,32,32,League,Anrich Nortje, Dubai (DICS),Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Bat_First,Delhi Capitals,8 Wickets,Wickets,135,33,2021
-33,33,33,33,League,Sunil Narine, Abu Dhabi,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,7 Wickets,Wickets,156,34,2021
-34,34,34,34,League,Dwayne Bravo, Sharjah,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,6 Wickets,Wickets,157,35,2021
-35,35,35,35,League,Shreyas Iyer, Abu Dhabi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field_First,Delhi Capitals,33 Runs,Runs,155,36,2021
-36,36,36,36,League,Jason Holder, Sharjah,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Punjab Kings,5 Runs,Runs,126,37,2021
-37,37,37,37,League,Ravindra Jadeja, Abu Dhabi,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat_First,Chennai Super Kings,2 Wickets,Wickets,172,38,2021
-38,38,38,38,League,Glenn Maxwell, Dubai (DICS),Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field_First,Royal Challengers Bangalore,54 Runs,Runs,166,39,2021
-39,39,39,39,League,Jason Roy, Dubai (DICS),Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat_First,Sunrisers Hyderabad,7 Wickets,Wickets,165,40,2021
-40,40,40,40,League,Sunil Narine, Sharjah,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,3 Wickets,Wickets,128,41,2021
-41,41,41,41,League,Kieron Pollard, Abu Dhabi,Punjab Kings,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,6 Wickets,Wickets,136,42,2021
-42,42,42,42,League,Yuzvendra Chahal, Dubai (DICS),Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,7 Wickets,Wickets,150,43,2021
-43,43,43,43,League,Josh Hazlewood, Sharjah,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,6 Wickets,Wickets,135,44,2021
-44,44,44,44,League,KL Rahul, Dubai (DICS),Kolkata Knight Riders,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,5 Wickets,Wickets,166,45,2021
-45,45,45,45,League,Axar Patel, Sharjah,Mumbai Indians,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,4 Wickets,Wickets,130,46,2021
-46,46,46,46,League,Ruturaj Gaikwad, Abu Dhabi,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,7 Wickets,Wickets,190,47,2021
-47,47,47,47,League,Glenn Maxwell, Sharjah,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Bat_First,Royal Challengers Bangalore,6 Runs,Runs,165,48,2021
-48,48,48,48,League,Shubman Gill, Dubai (DICS),Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat_First,Kolkata Knight Riders,6 Wickets,Wickets,116,49,2021
-49,49,49,49,League,Axar Patel, Dubai (DICS),Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,3 Wickets,Wickets,137,50,2021
-50,50,50,50,League,Nathan Coulter-Nile, Sharjah,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,8 Wickets,Wickets,91,51,2021
-51,51,51,51,League,Kane Williamson, Abu Dhabi,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Sunrisers Hyderabad,4 Runs,Runs,142,52,2021
-52,52,52,52,League,KL Rahul, Dubai (DICS),Chennai Super Kings,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,6 Wickets,Wickets,135,53,2021
-53,53,53,53,League,Shivam Mavi, Sharjah,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field_First,Kolkata Knight Riders,86 Runs,Runs,172,54,2021
-54,54,54,54,League,Ishan Kishan, Abu Dhabi,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat_First,Mumbai Indians,42 Runs,Runs,236,55,2021
-55,55,55,55,League,Srikar Bharat, Dubai (DICS),Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,7 Wickets,Wickets,165,56,2021
-56,56,56,56,Qualifier 1,Ruturaj Gaikwad, Dubai (DICS),Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,4 Wickets,Wickets,173,57,2021
-57,57,57,57,Eliminator,Sunil Narine, Sharjah,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat_First,Kolkata Knight Riders,4 Wickets,Wickets,139,58,2021
-58,58,58,58,Qualifier 2,Venkatesh Iyer, Sharjah,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,3 Wickets,Wickets,136,59,2021
-59,59,59,59,Final,Faf du Plessis, Dubai (DICS),Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Chennai Super Kings,27 Runs,Runs,193,60,2021
-60,60,60,60,League,Umesh Yadav, Wankhede,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,6 Wickets,Wickets,132,1,2022
-61,61,61,61,League,Kuldeep Yadav, Brabourne,Mumbai Indians,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,4 Wickets,Wickets,178,2,2022
-62,62,62,62,League,Odean Smith, DY Patil,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,5 Wickets,Wickets,206,3,2022
-63,63,63,63,League,Mohammed Shami, Wankhede,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,5 Wickets,Wickets,159,4,2022
-64,64,64,64,League,Sanju Samson, Pune,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Rajasthan Royals,61 Runs,Runs,211,5,2022
-65,65,65,65,League,Wanindu Hasaranga, DY Patil,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,3 Wickets,Wickets,129,6,2022
-66,66,66,66,League,Evin Lewis, Brabourne,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field_First,Lucknow Super Giants,6 Wickets,Wickets,211,7,2022
-67,67,67,67,League,Umesh Yadav, Wankhede,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,6 Wickets,Wickets,138,8,2022
-68,68,68,68,League,Jos Buttler, DY Patil,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field_First,Rajasthan Royals,23 Runs,Runs,194,9,2022
-69,69,69,69,League,Lockie Ferguson, Pune,Gujarat Titans,Delhi Capitals,Delhi Capitals,Field_First,Gujarat Titans,14 Runs,Runs,172,10,2022
-70,70,70,70,League,Liam Livingstone, Brabourne,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field_First,Punjab Kings,54 Runs,Runs,181,11,2022
-71,71,71,71,League,Avesh Khan, DY Patil,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Lucknow Super Giants,12 Runs,Runs,170,12,2022
-72,72,72,72,League,Dinesh Karthik, Wankhede,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,4 Wickets,Wickets,170,13,2022
-73,73,73,73,League,Pat Cummins, Pune,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,5 Wickets,Wickets,162,14,2022
-74,74,74,74,League,Quinton de Kock, DY Patil,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Field_First,Lucknow Super Giants,6 Wickets,Wickets,150,15,2022
-75,75,75,75,League,Shubman Gill, Brabourne,Punjab Kings,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,6 Wickets,Wickets,190,16,2022
-76,76,76,76,League,Abhishek Sharma, DY Patil,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,8 Wickets,Wickets,155,17,2022
-77,77,77,77,League,Anuj Rawat, Pune,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,7 Wickets,Wickets,152,18,2022
-78,78,78,78,League,Kuldeep Yadav, Brabourne,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Delhi Capitals,44 Runs,Runs,216,19,2022
-79,79,79,79,League,Yuzvendra Chahal, Wankhede,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Field_First,Rajasthan Royals,3 Runs,Runs,166,20,2022
-80,80,80,80,League,Kane Williamson, DY Patil,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,8 Wickets,Wickets,163,21,2022
-81,81,81,81,League,Shivam Dube, DY Patil,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Chennai Super Kings,23 Runs,Runs,217,22,2022
-82,82,82,82,League,Mayank Agarawal, Pune,Punjab Kings,Mumbai Indians,Mumbai Indians,Field_First,Punjab Kings,12 Runs,Runs,199,23,2022
-83,83,83,83,League,Hardik Pandya, DY Patil,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Field_First,Gujarat Titans,37 Runs,Runs,193,24,2022
-84,84,84,84,League,Rahul Tripathi, Brabourne,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,7 Wickets,Wickets,176,25,2022
-85,85,85,85,League,KL Rahul, Brabourne,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field_First,Lucknow Super Giants,18 Runs,Runs,200,26,2022
-86,86,86,86,League,Dinesh Karthik, Wankhede,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field_First,Royal Challengers Bangalore,16 Runs,Runs,190,27,2022
-87,87,87,87,League,Umran Malik, DY Patil,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,7 Wickets,Wickets,152,28,2022
-88,88,88,88,League,David Miller, Pune,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,3 Wickets,Wickets,170,29,2022
-89,89,89,89,League,Yuzvendra Chahal, Brabourne,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Rajasthan Royals,7 Runs,Runs,218,30,2022
-90,90,90,90,League,Faf du Plessis, DY Patil,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field_First,Royal Challengers Bangalore,18 Runs,Runs,182,31,2022
-91,91,91,91,League,Kuldeep Yadav, Brabourne,Punjab Kings,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,9 Wickets,Wickets,116,32,2022
-92,92,92,92,League,Mukesh Choudhary, DY Patil,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,3 Wickets,Wickets,156,33,2022
-93,93,93,93,League,Jos Buttler, Wankhede,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field_First,Rajasthan Royals,15 Runs,Runs,223,34,2022
-94,94,94,94,League,Rashid Khan, DY Patil,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Bat_First,Gujarat Titans,8 Runs,Runs,157,35,2022
-95,95,95,95,League,Marco Jansen, Brabourne,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,9 Wickets,Wickets,69,36,2022
-96,96,96,96,League,KL Rahul, Wankhede,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field_First,Lucknow Super Giants,36 Runs,Runs,169,37,2022
-97,97,97,97,League,Shikhar Dhawan, Wankhede,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field_First,Punjab Kings,11 Runs,Runs,188,38,2022
-98,98,98,98,League,Riyan Parag, Pune,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Rajasthan Royals,29 Runs,Runs,145,39,2022
-99,99,99,99,League,Umran Malik, Wankhede,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,5 Wickets,Wickets,196,40,2022
-100,100,100,100,League,Kuldeep Yadav, Wankhede,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,4 Wickets,Wickets,147,41,2022
-101,101,101,101,League,Krunal Pandya, Pune,Lucknow Super Giants,Punjab Kings,Punjab Kings,Field_First,Lucknow Super Giants,20 Runs,Runs,154,42,2022
-102,102,102,102,League,Rahul Tewatia, Brabourne,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Bat_First,Gujarat Titans,6 Wickets,Wickets,171,43,2022
-103,103,103,103,League,Suryakumar Yadav, DY Patil,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,5 Wickets,Wickets,159,44,2022
-104,104,104,104,League,Mohsin Khan, Wankhede,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Bat_First,Lucknow Super Giants,6 Runs,Runs,196,45,2022
-105,105,105,105,League,Ruturaj Gaikwad, Pune,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Chennai Super Kings,13 Runs,Runs,203,46,2022
-106,106,106,106,League,Rinku Singh, Wankhede,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,7 Wickets,Wickets,153,47,2022
-107,107,107,107,League,Kagiso Rabada, DY Patil,Gujarat Titans,Punjab Kings,Gujarat Titans,Bat_First,Punjab Kings,8 Wickets,Wickets,144,48,2022
-108,108,108,108,League,Harshal Patel, Pune,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field_First,Royal Challengers Bangalore,13 Runs,Runs,174,49,2022
-109,109,109,109,League,David Warner, Brabourne,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Delhi Capitals,21 Runs,Runs,208,50,2022
-110,110,110,110,League,Tim David, Brabourne,Mumbai Indians,Gujarat Titans,Gujarat Titans,Field_First,Mumbai Indians,5 Runs,Runs,178,51,2022
-111,111,111,111,League,Yashasvi Jaiswal, Wankhede,Punjab Kings,Rajasthan Royals,Punjab Kings,Bat_First,Rajasthan Royals,6 Wickets,Wickets,190,52,2022
-112,112,112,112,League,Avesh Khan, Pune,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Lucknow Super Giants,75 Runs,Runs,177,53,2022
-113,113,113,113,League,Wanindu Hasaranga, Wankhede,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat_First,Royal Challengers Bangalore,67 Runs,Runs,193,54,2022
-114,114,114,114,League,Devon Conway, DY Patil,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field_First,Chennai Super Kings,91 Runs,Runs,209,55,2022
-115,115,115,115,League,Jasprit Bumrah, DY Patil,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field_First,Kolkata Knight Riders,52 Runs,Runs,166,56,2022
-116,116,116,116,League,Shubman Gill, Pune,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Bat_First,Gujarat Titans,62 Runs,Runs,145,57,2022
-117,117,117,117,League,Mitchell Marsh, DY Patil,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,8 Wickets,Wickets,161,58,2022
-118,118,118,118,League,Daniel Sams, Wankhede,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,5 Wickets,Wickets,98,59,2022
-119,119,119,119,League,Jonny Bairstow, Brabourne,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Punjab Kings,54 Runs,Runs,210,60,2022
-120,120,120,120,League,Andre Russell, Pune,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat_First,Kolkata Knight Riders,54 Runs,Runs,178,61,2022
-121,121,121,121,League,Wriddhiman Saha, Wankhede,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Bat_First,Gujarat Titans,7 Wickets,Wickets,134,62,2022
-122,122,122,122,League,Trent Boult, Brabourne,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Bat_First,Rajasthan Royals,24 Runs,Runs,179,63,2022
-123,123,123,123,League,Shardul Thakur, DY Patil,Delhi Capitals,Punjab Kings,Punjab Kings,Field_First,Delhi Capitals,17 Runs,Runs,160,64,2022
-124,124,124,124,League,Rahul Tripathi, Wankhede,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field_First,Sunrisers Hyderabad,3 Runs,Runs,194,65,2022
-125,125,125,125,League,Quinton de Kock, DY Patil,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Bat_First,Lucknow Super Giants,2 Runs,Runs,211,66,2022
-126,126,126,126,League,Virat Kohli, Wankhede,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Bat_First,Royal Challengers Bangalore,8 Wickets,Wickets,169,67,2022
-127,127,127,127,League,Ravichandran Ashwin, Brabourne,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat_First,Rajasthan Royals,5 Wickets,Wickets,151,68,2022
-128,128,128,128,League,Jasprit Bumrah, Wankhede,Delhi Capitals,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,5 Wickets,Wickets,160,69,2022
-129,129,129,129,League,Harpreet Brar, Wankhede,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Bat_First,Punjab Kings,5 Wickets,Wickets,158,70,2022
-130,130,130,130,Qualifier 1,David Miller, Eden Gardens,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,7 Wickets,Wickets,189,71,2022
-131,131,131,131,Eliminator,Rajat Patidar, Eden Gardens,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field_First,Royal Challengers Bangalore,14 Runs,Runs,208,72,2022
-132,132,132,132,Qualifier 2,Jos Buttler, Ahmedabad,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,7 Wickets,Wickets,158,73,2022
-133,133,133,133,Final,Hardik Pandya, Ahmedabad,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Bat_First,Gujarat Titans,7 Wickets,Wickets,131,74,2022
-134,134,134,134,League,Rashid Khan, Ahmedabad,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,5 Wickets,Wickets,179,1,2023
-135,135,135,135,League,Arshdeep Singh, Mohali,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Punjab Kings,45 Runs,Runs,192,2,2023
-136,136,136,136,League,Mark Wood, Lucknow,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Field_First,Lucknow Super Giants,50 Runs,Runs,194,3,2023
-137,137,137,137,League,Jos Buttler, Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Rajasthan Royals,72 Runs,Runs,204,4,2023
-138,138,138,138,League,Faf du Plessis, Bengaluru,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,8 Wickets,Wickets,172,5,2023
-139,139,139,139,League,Moeen Ali, Chennai,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field_First,Chennai Super Kings,12 Runs,Runs,218,6,2023
-140,140,140,140,League,Sai Sudharsan, Delhi,Delhi Capitals,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,6 Wickets,Wickets,163,7,2023
-141,141,141,141,League,Nathan Ellis, Guwahati,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field_First,Punjab Kings,5 Runs,Runs,198,8,2023
-142,142,142,142,League,Shardul Thakur, Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Kolkata Knight Riders,81 Runs,Runs,205,9,2023
-143,143,143,143,League,Krunal Pandya, Lucknow,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Bat_First,Lucknow Super Giants,5 Wickets,Wickets,122,10,2023
-144,144,144,144,League,Yashasvi Jaiswal, Guwahati,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field_First,Rajasthan Royals,57 Runs,Runs,200,11,2023
-145,145,145,145,League,Ravindra Jadeja, Wankhede,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,7 Wickets,Wickets,158,12,2023
-146,146,146,146,League,Rinku Singh, Ahmedabad,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Bat_First,Kolkata Knight Riders,3 Wickets,Wickets,205,13,2023
-147,147,147,147,League,Shikhar Dhawan, Hyderabad,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,8 Wickets,Wickets,144,14,2023
-148,148,148,148,League,Nicholas Pooran, Bengaluru,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field_First,Lucknow Super Giants,1 Wickets,Wickets,213,15,2023
-149,149,149,149,League,Rohit Sharma, Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,6 Wickets,Wickets,173,16,2023
-150,150,150,150,League,Ravichandran Ashwin, Chennai,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field_First,Rajasthan Royals,3 Runs,Runs,176,17,2023
-151,151,151,151,League,Mohit Sharma, Mohali,Punjab Kings,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,6 Wickets,Wickets,154,18,2023
-152,152,152,152,League,Harry Brook, Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Sunrisers Hyderabad,23 Runs,Runs,229,19,2023
-153,153,153,153,League,Virat Kohli, Bengaluru,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field_First,Royal Challengers Bangalore,23 Runs,Runs,175,20,2023
-154,154,154,154,League,Sikandar Raza, Lucknow,Lucknow Super Giants,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,2 Wickets,Wickets,160,21,2023
-155,155,155,155,League,Venkatesh Iyer, Wankhede,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,5 Wickets,Wickets,186,22,2023
-156,156,156,156,League,Shimron Hetmyer, Ahmedabad,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,3 Wickets,Wickets,178,23,2023
-157,157,157,157,League,Devon Conway, Bengaluru,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Chennai Super Kings,8 Runs,Runs,227,24,2023
-158,158,158,158,League,Cameron Green, Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Mumbai Indians,14 Runs,Runs,193,25,2023
-159,159,159,159,League,Marcus Stoinis, Jaipur,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Field_First,Lucknow Super Giants,10 Runs,Runs,155,26,2023
-160,160,160,160,League,Mohammed Siraj, Mohali,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field_First,Royal Challengers Bangalore,24 Runs,Runs,175,27,2023
-161,161,161,161,League,Ishant Sharma, Delhi,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,4 Wickets,Wickets,128,28,2023
-162,162,162,162,League,Ravindra Jadeja, Chennai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,7 Wickets,Wickets,135,29,2023
-163,163,163,163,League,Mohit Sharma, Lucknow,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Bat_First,Gujarat Titans,7 Runs,Runs,136,30,2023
-164,164,164,164,League,Sam Curran, Wankhede,Punjab Kings,Mumbai Indians,Mumbai Indians,Field_First,Punjab Kings,13 Runs,Runs,215,31,2023
-165,165,165,165,League,Glenn Maxwell, Bengaluru,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field_First,Royal Challengers Bangalore,7 Runs,Runs,190,32,2023
-166,166,166,166,League,Ajinkya Rahane, Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Chennai Super Kings,49 Runs,Runs,236,33,2023
-167,167,167,167,League,Axar Patel, Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat_First,Delhi Capitals,7 Runs,Runs,145,34,2023
-168,168,168,168,League,Abhinav Manohar, Ahmedabad,Gujarat Titans,Mumbai Indians,Mumbai Indians,Field_First,Gujarat Titans,55 Runs,Runs,208,35,2023
-169,169,169,169,League,Varun Chakravarthy, Bengaluru,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Kolkata Knight Riders,21 Runs,Runs,201,36,2023
-170,170,170,170,League,Yashasvi Jaiswal, Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat_First,Rajasthan Royals,32 Runs,Runs,203,37,2023
-171,171,171,171,League,Marcus Stoinis, Mohali,Lucknow Super Giants,Punjab Kings,Punjab Kings,Field_First,Lucknow Super Giants,56 Runs,Runs,258,38,2023
-172,172,172,172,League,Josh Little, Eden Gardens,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,7 Wickets,Wickets,180,39,2023
-173,173,173,173,League,Mitchell Marsh, Delhi,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Bat_First,Sunrisers Hyderabad,9 Runs,Runs,198,40,2023
-174,174,174,174,League,Devon Conway, Chennai,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Bat_First,Punjab Kings,4 Wickets,Wickets,201,41,2023
-175,175,175,175,League,Yashasvi Jaiswal, Wankhede,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat_First,Mumbai Indians,6 Wickets,Wickets,213,42,2023
-176,176,176,176,League,Faf du Plessis, Lucknow,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Bat_First,Royal Challengers Bangalore,18 Runs,Runs,127,43,2023
-177,177,177,177,League,Mohammed Shami, Ahmedabad,Delhi Capitals,Gujarat Titans,Delhi Capitals,Bat_First,Delhi Capitals,5 Runs,Runs,131,44,2023
-178,178,178,178,League,Ishan Kishan, Mohali,Punjab Kings,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,6 Wickets,Wickets,215,45,2023
-179,179,179,179,League,Varun Chakravarthy, Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat_First,Kolkata Knight Riders,5 Runs,Runs,172,46,2023
-180,180,180,180,League,Rashid Khan, Jaipur,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Bat_First,Gujarat Titans,9 Wickets,Wickets,119,47,2023
-181,181,181,181,League,Matheesha Pathirana, Chennai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,6 Wickets,Wickets,140,48,2023
-182,182,182,182,League,Phil Salt, Delhi,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Bat_First,Delhi Capitals,7 Wickets,Wickets,182,49,2023
-183,183,183,183,League,Shubman Gill, Ahmedabad,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Field_First,Gujarat Titans,56 Runs,Runs,228,50,2023
-184,184,184,184,League,Glenn Phillips, Jaipur,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat_First,Sunrisers Hyderabad,4 Wickets,Wickets,215,51,2023
-185,185,185,185,League,Andre Russell, Eden Gardens,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Bat_First,Kolkata Knight Riders,5 Wickets,Wickets,180,52,2023
-186,186,186,186,League,Suryakumar Yadav, Wankhede,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,6 Wickets,Wickets,200,53,2023
-187,187,187,187,League,Ravindra Jadeja, Chennai,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Bat_First,Chennai Super Kings,27 Runs,Runs,168,54,2023
-188,188,188,188,League,Yashasvi Jaiswal, Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,9 Wickets,Wickets,150,55,2023
-189,189,189,189,League,Suryakumar Yadav, Wankhede,Mumbai Indians,Gujarat Titans,Gujarat Titans,Field_First,Mumbai Indians,27 Runs,Runs,219,56,2023
-190,190,190,190,League,Prerak Mankad, Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Bat_First,Lucknow Super Giants,7 Wickets,Wickets,183,57,2023
-191,191,191,191,League,Prabhsimran Singh, Delhi,Punjab Kings,Delhi Capitals,Delhi Capitals,Field_First,Punjab Kings,31 Runs,Runs,168,58,2023
-192,192,192,192,League,Wayne Parnell, Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat_First,Royal Challengers Bangalore,112 Runs,Runs,172,59,2023
-193,193,193,193,League,Rinku Singh, Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat_First,Kolkata Knight Riders,6 Wickets,Wickets,145,60,2023
-194,194,194,194,League,Shubman Gill, Ahmedabad,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Gujarat Titans,34 Runs,Runs,189,61,2023
-195,195,195,195,League,Marcus Stoinis, Lucknow,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field_First,Lucknow Super Giants,5 Runs,Runs,178,62,2023
-196,196,196,196,League,Rilee Rossouw, Dharamsala,Delhi Capitals,Punjab Kings,Punjab Kings,Field_First,Delhi Capitals,15 Runs,Runs,214,63,2023
-197,197,197,197,League,Virat Kohli, Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field_First,Royal Challengers Bangalore,8 Wickets,Wickets,187,64,2023
-198,198,198,198,League,Devdutt Padikkal, Dharamsala,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,4 Wickets,Wickets,188,65,2023
-199,199,199,199,League,Ruturaj Gaikwad, Delhi,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Bat_First,Chennai Super Kings,77 Runs,Runs,224,66,2023
-200,200,200,200,League,Nicholas Pooran, Eden Gardens,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Lucknow Super Giants,1 Runs,Runs,177,67,2023
-201,201,201,201,League,Cameron Green, Wankhede,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,8 Wickets,Wickets,201,68,2023
-202,202,202,202,League,Shubman Gill, Bengaluru,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,6 Wickets,Wickets,198,69,2023
-203,203,203,203,Qualifier 1,Ruturaj Gaikwad, Chennai,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field_First,Chennai Super Kings,15 Runs,Runs,173,70,2023
-204,204,204,204,Eliminator,Akash Madhwal, Chennai,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Bat_First,Mumbai Indians,81 Runs,Runs,183,71,2023
-205,205,205,205,Qualifier 2,Shubman Gill, Ahmedabad,Gujarat Titans,Mumbai Indians,Mumbai Indians,Field_First,Gujarat Titans,62 Runs,Runs,234,72,2023
-206,206,206,206,Final,Sai Sudharsan, Ahmedabad,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Field_First,Gujarat Titans,43 Runs,Runs,215,73,2023
-207,207,207,207,League,Mustafizur Rahman, Chennai,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Bat_First,Chennai Super Kings,6 Wickets,Wickets,174,1,2024
-208,208,208,208,League,Sam Curran, Mullanpur,Delhi Capitals,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,4 Wickets,Wickets,175,2,2024
-209,209,209,209,League,Andre Russell, Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Kolkata Knight Riders,4 Runs,Runs,209,3,2024
-210,210,210,210,League,Sanju Samson, Jaipur,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Bat_First,Rajasthan Royals,20 Runs,Runs,194,4,2024
-211,211,211,211,League,Sai Sudharsan, Ahmedabad,Gujarat Titans,Mumbai Indians,Mumbai Indians,Field_First,Gujarat Titans,6 Runs,Runs,169,5,2024
-212,212,212,212,League,Virat Kohli, Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field_First,Royal Challengers Bengaluru,4 Wickets,Wickets,177,6,2024
-213,213,213,213,League,Shivam Dube, Chennai,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field_First,Chennai Super Kings,63 Runs,Runs,207,7,2024
-214,214,214,214,League,Abhishek Sharma, Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field_First,Sunrisers Hyderabad,31 Runs,Runs,278,8,2024
-215,215,215,215,League,Riyan Parag, Jaipur,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field_First,Rajasthan Royals,12 Runs,Runs,186,9,2024
-216,216,216,216,League,Sunil Narine, Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,7 Wickets,Wickets,183,10,2024
-217,217,217,217,League,Mayank Yadav, Lucknow,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Bat_First,Lucknow Super Giants,21 Runs,Runs,200,11,2024
-218,218,218,218,League,Mohit Sharma, Ahmedabad,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Bat_First,Gujarat Titans,7 Wickets,Wickets,163,12,2024
-219,219,219,219,League,Khaleel Ahmed, Visakhapatnam,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Bat_First,Delhi Capitals,20 Runs,Runs,192,13,2024
-220,220,220,220,League,Trent Boult, Wankhede,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,6 Wickets,Wickets,126,14,2024
-221,221,221,221,League,Mayank Yadav, Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field_First,Lucknow Super Giants,28 Runs,Runs,182,15,2024
-222,222,222,222,League,Sunil Narine, Visakhapatnam,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Bat_First,Kolkata Knight Riders,106 Runs,Runs,273,16,2024
-223,223,223,223,League,Shashank Singh, Ahmedabad,Gujarat Titans,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,3 Wickets,Wickets,200,17,2024
-224,224,224,224,League,Abhishek Sharma, Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Sunrisers Hyderabad,6 Wickets,Wickets,166,18,2024
-225,225,225,225,League,Jos Buttler, Jaipur,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,6 Wickets,Wickets,184,19,2024
-226,226,226,226,League,Romario Shepherd, Wankhede,Mumbai Indians,Delhi Capitals,Delhi Capitals,Field_First,Mumbai Indians,29 Runs,Runs,235,20,2024
-227,227,227,227,League,Yash Thakur, Lucknow,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Bat_First,Lucknow Super Giants,33 Runs,Runs,164,21,2024
-228,228,228,228,League,Ravindra Jadeja, Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field_First,Chennai Super Kings,7 Wickets,Wickets,138,22,2024
-229,229,229,229,League,Nitish Kumar Reddy, Mullanpur,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Field_First,Sunrisers Hyderabad,2 Runs,Runs,183,23,2024
-230,230,230,230,League,Rashid Khan, Jaipur,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Field_First,Gujarat Titans,3 Wickets,Wickets,197,24,2024
-231,231,231,231,League,Jasprit Bumrah, Wankhede,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,7 Wickets,Wickets,197,25,2024
-232,232,232,232,League,Kuldeep Yadav, Lucknow,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Bat_First,Delhi Capitals,6 Wickets,Wickets,168,26,2024
-233,233,233,233,League,Shimron Hetmyer, Mullanpur,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,3 Wickets,Wickets,148,27,2024
-234,234,234,234,League,Phil Salt, Eden Gardens,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Field_First,Kolkata Knight Riders,8 Wickets,Wickets,162,28,2024
-235,235,235,235,League,Matheesha Pathirana, Wankhede,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field_First,Chennai Super Kings,20 Runs,Runs,207,29,2024
-236,236,236,236,League,Travis Head, Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field_First,Sunrisers Hyderabad,25 Runs,Runs,288,30,2024
-237,237,237,237,League,Jos Buttler, Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,2 Wickets,Wickets,224,31,2024
-238,238,238,238,League,Rishabh Pant, Ahmedabad,Gujarat Titans,Delhi Capitals,Delhi Capitals,Field_First,Delhi Capitals,6 Wickets,Wickets,90,32,2024
-239,239,239,239,League,Jasprit Bumrah, Mullanpur,Mumbai Indians,Punjab Kings,Punjab Kings,Field_First,Mumbai Indians,9 Runs,Runs,193,33,2024
-240,240,240,240,League,KL Rahul, Lucknow,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field_First,Lucknow Super Giants,8 Wickets,Wickets,177,34,2024
-241,241,241,241,League,Travis Head, Delhi,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Field_First,Sunrisers Hyderabad,67 Runs,Runs,267,35,2024
-242,242,242,242,League,Andre Russell, Eden Gardens,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field_First,Kolkata Knight Riders,1 Runs,Runs,223,36,2024
-243,243,243,243,League,Sai Kishore, Mullanpur,Punjab Kings,Gujarat Titans,Punjab Kings,Bat_First,Gujarat Titans,3 Wickets,Wickets,143,37,2024
-244,244,244,244,League,Sandeep Sharma, Jaipur,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat_First,Rajasthan Royals,9 Wickets,Wickets,180,38,2024
-245,245,245,245,League,Marcus Stoinis, Chennai,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field_First,Lucknow Super Giants,6 Wickets,Wickets,211,39,2024
-246,246,246,246,League,Rishabh Pant, Delhi,Delhi Capitals,Gujarat Titans,Gujarat Titans,Field_First,Delhi Capitals,4 Runs,Runs,225,40,2024
-247,247,247,247,League,Rajat Patidar, Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Bat_First,Royal Challengers Bengaluru,35 Runs,Runs,207,41,2024
-248,248,248,248,League,Jonny Bairstow, Eden Gardens,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,8 Wickets,Wickets,262,42,2024
-249,249,249,249,League,Jake Fraser-McGurk, Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,Field_First,Delhi Capitals,10 Runs,Runs,258,43,2024
-250,250,250,250,League,Sanju Samson, Lucknow,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,7 Wickets,Wickets,197,44,2024
-251,251,251,251,League,Will Jacks, Ahmedabad,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field_First,Royal Challengers Bengaluru,9 Wickets,Wickets,201,45,2024
-252,252,252,252,League,Ruturaj Gaikwad, Chennai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field_First,Chennai Super Kings,78 Runs,Runs,213,46,2024
-253,253,253,253,League,Varun Chakravarthy, Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Bat_First,Kolkata Knight Riders,7 Wickets,Wickets,154,47,2024
-254,254,254,254,League,Marcus Stoinis, Lucknow,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Field_First,Lucknow Super Giants,4 Wickets,Wickets,145,48,2024
-255,255,255,255,League,Harpreet Brar, Chennai,Chennai Super Kings,Punjab Kings,Punjab Kings,Field_First,Punjab Kings,7 Wickets,Wickets,163,49,2024
-256,256,256,256,League,Bhuvneshwar Kumar, Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat_First,Sunrisers Hyderabad,1 Runs,Runs,202,50,2024
-257,257,257,257,League,Venkatesh Iyer, Wankhede,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field_First,Kolkata Knight Riders,24 Runs,Runs,170,51,2024
-258,258,258,258,League,Mohammed Siraj, Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Field_First,Royal Challengers Bengaluru,4 Wickets,Wickets,148,52,2024
-259,259,259,259,League,Ravindra Jadeja, Dharamsala,Chennai Super Kings,Punjab Kings,Punjab Kings,Field_First,Chennai Super Kings,28 Runs,Runs,168,53,2024
-260,260,260,260,League,Sunil Narine, Lucknow,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Field_First,Kolkata Knight Riders,98 Runs,Runs,236,54,2024
-261,261,261,261,League,Suryakumar Yadav, Wankhede,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field_First,Mumbai Indians,7 Wickets,Wickets,174,55,2024
-262,262,262,262,League,Kuldeep Yadav, Delhi,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field_First,Delhi Capitals,20 Runs,Runs,222,56,2024
-263,263,263,263,League,Travis Head, Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Bat_First,Sunrisers Hyderabad,10 Wickets,Wickets,166,57,2024
-264,264,264,264,League,Virat Kohli, Dharamsala,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,Field_First,Royal Challengers Bengaluru,60 Runs,Runs,242,58,2024
-265,265,265,265,League,Shubman Gill, Ahmedabad,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Field_First,Gujarat Titans,35 Runs,Runs,232,59,2024
-266,266,266,266,League,Varun Chakravarthy, Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field_First,Kolkata Knight Riders,18 Runs,Runs,158,60,2024
-267,267,267,267,League,Simarjeet Singh, Chennai,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat_First,Chennai Super Kings,5 Wickets,Wickets,142,61,2024
-268,268,268,268,League,Cameron Green, Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,Field_First,Royal Challengers Bengaluru,47 Runs,Runs,188,62,2024
-269,269,269,269,League,Ishant Sharma, Delhi,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Field_First,Delhi Capitals,19 Runs,Runs,209,63,2024
-270,270,270,270,League,Sam Curran, Guwahati,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Bat_First,Punjab Kings,5 Wickets,Wickets,145,64,2024
-271,271,271,271,League,Nicholas Pooran, Wankhede,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field_First,Lucknow Super Giants,18 Runs,Runs,215,65,2024
-272,272,272,272,League,Faf du Plessis, Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Field_First,Royal Challengers Bengaluru,27 Runs,Runs,219,66,2024
-273,273,273,273,League,Abhishek Sharma, Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Bat_First,Sunrisers Hyderabad,4 Wickets,Wickets,215,67,2024
-274,274,274,274,Qualifier 1,Mitchell Starc, Ahmedabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat_First,Kolkata Knight Riders,8 Wickets,Wickets,160,68,2024
-275,275,275,275,Eliminator,Ravichandran Ashwin, Ahmedabad,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Field_First,Rajasthan Royals,4 Wickets,Wickets,173,69,2024
-276,276,276,276,Qualifier 2,Shahbaz Ahmed, Chennai,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field_First,Sunrisers Hyderabad,36 Runs,Runs,176,70,2024
-277,277,277,277,Final,Mitchell Starc, Chennai,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat_First,Kolkata Knight Riders,8 Wickets,Wickets,114,71,2024
+,index,Match Type,POTM,Venue,Team1,Team2,Toss_Winner,Toss_Decision,Winner,Win_Margin,Result_Type,Target_Runs,Season,Match
+0,0,League,Brendon McCullum,Bengaluru,KKR,RCB,Royal Challengers Bangalore,field,KKR,140,runs,222,2008,"['1st', 'match']"
+1,1,League,Michael Hussey,Mohali,CSK,KXIP,Chennai Super Kings,bat,CSK,33,runs,240,2008,"['2nd', 'match']"
+2,2,League,Farveez Maharoof,Delhi,RR,DC,Rajasthan Royals,bat,Daredevils,9,wicket,129,2008,"['3rd', 'match']"
+3,3,League,David Hussey,Eden Gardens,DCH,KKR,Deccan Chargers,bat,KKR,5,wicket,110,2008,"['4th', 'match']"
+4,4,League,Mark Boucher,Wankhede,MI,RCB,Mumbai Indians,bat,RCB,5,wicket,165,2008,"['5th', 'match']"
+5,5,League,Shane Watson,Jaipur,KXIP,RR,Kings XI Punjab,bat,RR,6,wicket,166,2008,"['6th', 'match']"
+6,6,League,Virender Sehwag,Hyderabad,DCH,DC,Deccan Chargers,bat,Daredevils,9,wicket,142,2008,"['7th', 'match']"
+7,7,League,Matthew Hayden,Chennai,CSK,MI,Mumbai Indians,field,CSK,6,runs,208,2008,"['8th', 'match']"
+8,8,League,Yusuf Pathan,Hyderabad,DCH,RR,Rajasthan Royals,field,RR,3,wicket,214,2008,"['9th', 'match']"
+9,9,League,Kumar Sangakkara,Mohali,KXIP,MI,Mumbai Indians,field,Kings,66,runs,182,2008,"['10th', 'match']"
+10,10,League,Jacob Oram,Chennai,KKR,CSK,Kolkata Knight Riders,bat,CSK,9,wicket,147,2008,"['11th', 'match']"
+11,11,League,Shane Watson,Bengaluru,RCB,RR,Rajasthan Royals,field,RR,7,wicket,135,2008,"['12th', 'match']"
+12,12,League,Simon Katich,Mohali,DC,KXIP,Delhi Daredevils,bat,Kings,4,wicket,158,2008,"['13th', 'match']"
+13,13,League,Adam Gilchrist,DY Patil,MI,DCH,Deccan Chargers,field,Chargers,10,wicket,154,2008,"['14th', 'match']"
+14,14,League,MS Dhoni,Bengaluru,CSK,RCB,Chennai Super Kings,bat,CSK,13,runs,178,2008,"['15th', 'match']"
+15,15,League,Sanath Jayasuriya,Eden Gardens,KKR,MI,Kolkata Knight Riders,bat,MI,7,wicket,137,2008,"['16th', 'match']"
+16,16,League,Glenn McGrath,Delhi,DC,RCB,Royal Challengers Bangalore,field,Daredevils,10,runs,191,2008,"['17th', 'match']"
+17,17,League,Swapnil Asnodkar,Jaipur,RR,KKR,Rajasthan Royals,bat,RR,45,runs,196,2008,"['18th', 'match']"
+18,18,League,Shaun Marsh,Hyderabad,DCH,KXIP,Kings XI Punjab,field,Kings,7,wicket,164,2008,"['19th', 'match']"
+19,19,League,Virender Sehwag,Chennai,CSK,DC,Chennai Super Kings,bat,Daredevils,8,wicket,169,2008,"['20th', 'match']"
+20,20,League,Praveen Kumar,Bengaluru,RCB,DCH,Deccan Chargers,field,RCB,3,runs,156,2008,"['21st', 'match']"
+21,21,League,Irfan Pathan,Mohali,KXIP,KKR,Kings XI Punjab,bat,Kings,9,runs,178,2008,"['22nd', 'match']"
+22,22,League,Shaun Pollock,DY Patil,MI,DC,Delhi Daredevils,field,MI,29,runs,162,2008,"['23rd', 'match']"
+23,23,League,Sohail Tanvir,Jaipur,CSK,RR,Chennai Super Kings,bat,RR,8,wicket,109,2008,"['24th', 'match']"
+24,24,League,Sreesanth,Bengaluru,RCB,KXIP,Kings XI Punjab,field,Kings,6,wicket,126,2008,"['25th', 'match']"
+25,25,League,Adam Gilchrist,Chennai,CSK,DCH,Deccan Chargers,field,Chargers,7,wicket,144,2008,"['26th', 'match']"
+26,26,League,Ashish Nehra,DY Patil,RR,MI,Mumbai Indians,field,MI,7,wicket,103,2008,"['27th', 'match']"
+27,27,League,MS Dhoni,Delhi,DC,CSK,Chennai Super Kings,field,CSK,4,wicket,187,2008,"['28th', 'match']"
+28,28,League,Sourav Ganguly,Eden Gardens,KKR,RCB,Kolkata Knight Riders,bat,KKR,5,runs,129,2008,"['29th', 'match']"
+29,29,League,Yusuf Pathan,Jaipur,DCH,RR,Rajasthan Royals,field,RR,8,wicket,140,2008,"['30th', 'match']"
+30,30,League,Lakshmipathy Balaji,Chennai,CSK,KXIP,Kings XI Punjab,field,CSK,18,runs,181,2008,"['31st', 'match']"
+31,31,League,Sourav Ganguly,Hyderabad,KKR,DCH,Kolkata Knight Riders,bat,KKR,23,runs,204,2008,"['32nd', 'match']"
+32,32,League,Shane Watson,Jaipur,DC,RR,Rajasthan Royals,field,RR,3,wicket,156,2008,"['33rd', 'match']"
+33,33,League,Shaun Marsh,Mohali,RCB,KXIP,Royal Challengers Bangalore,bat,Kings,9,wicket,143,2008,"['34th', 'match']"
+34,34,League,Shoaib Akhtar,Eden Gardens,KKR,DC,Kolkata Knight Riders,bat,KKR,23,runs,133,2008,"['35th', 'match']"
+35,35,League,Sanath Jayasuriya,Wankhede,CSK,MI,Mumbai Indians,field,MI,9,wicket,156,2008,"['36th', 'match']"
+36,36,League,Amit Mishra,Delhi,DC,DCH,Deccan Chargers,field,Daredevils,12,runs,194,2008,"['37th', 'match']"
+37,37,League,Shaun Pollock,Wankhede,KKR,MI,Mumbai Indians,field,MI,8,wicket,67,2008,"['38th', 'match']"
+38,38,League,Graeme Smith,Jaipur,RR,RCB,Royal Challengers Bangalore,field,RR,65,runs,197,2008,"['39th', 'match']"
+39,39,League,Mahela Jayawardene,Delhi,DC,KXIP,Delhi Daredevils,bat,Kings,6,runs,118,2008,"['40th', 'match']"
+40,40,League,Makhaya Ntini,Eden Gardens,KKR,CSK,Kolkata Knight Riders,bat,CSK,3,runs,149,2008,"['41st', 'match']"
+41,41,League,Dwayne Bravo,Hyderabad,MI,DCH,Deccan Chargers,field,MI,25,runs,178,2008,"['42nd', 'match']"
+42,42,League,Shreevats Goswami,Bengaluru,RCB,DC,Delhi Daredevils,field,Daredevils,5,wicket,154,2008,"['43rd', 'match']"
+43,43,League,Yusuf Pathan,Eden Gardens,KKR,RR,Rajasthan Royals,field,RR,6,wicket,147,2008,"['44th', 'match']"
+44,44,League,Shaun Marsh,Wankhede,KXIP,MI,Mumbai Indians,field,Kings,1,runs,189,2008,"['45th', 'match']"
+45,45,League,Anil Kumble,Chennai,RCB,CSK,Royal Challengers Bangalore,bat,RCB,14,runs,126,2008,"['46th', 'match']"
+46,46,,,,,,,,,,,,2008,
+47,47,League,Shaun Marsh,Mohali,DCH,KXIP,Kings XI Punjab,field,Kings,6,wicket,175,2008,"['48th', 'match']"
+48,48,League,Albie Morkel,Chennai,RR,CSK,Rajasthan Royals,bat,RR,10,runs,211,2008,"['49th', 'match']"
+49,49,League,Dinesh Karthik,Delhi,MI,DC,Delhi Daredevils,field,Daredevils,5,wicket,176,2008,"['50th', 'match']"
+50,50,League,Vinay Kumar,Hyderabad,DCH,RCB,Deccan Chargers,bat,RCB,5,wicket,165,2008,"['51st', 'match']"
+51,51,League,Umar Gul,Eden Gardens,KXIP,KKR,Kings XI Punjab,bat,KKR,3,wicket,174,2008,"['52nd', 'match']"
+52,52,League,Sohail Tanvir,Jaipur,MI,RR,Rajasthan Royals,field,RR,5,wicket,145,2008,"['53rd', 'match']"
+53,53,League,Suresh Raina,Hyderabad,DCH,CSK,Deccan Chargers,bat,CSK,7,wicket,147,2008,"['54th', 'match']"
+54,54,League,Dilhara Fernando,Bengaluru,RCB,MI,Mumbai Indians,field,MI,9,wicket,122,2008,"['55th', 'match']"
+55,55,League,Shaun Marsh,Mohali,KXIP,RR,Rajasthan Royals,field,Kings,41,runs,221,2008,"['56th', 'match']"
+56,56,Final,Shane Watson,Wankhede,RR,DC,Delhi Daredevils,field,RR,105,runs,192,2008,Final
+57,57,Final,Makhaya Ntini,Wankhede,KXIP,CSK,Kings XI Punjab,bat,CSK,9,wicket,112,2008,Final
+58,58,Final,Yusuf Pathan,DY Patil,CSK,RR,Rajasthan Royals,field,RR,3,wicket,163,2008,Final
+59,0,League,Sachin Tendulkar,Cape Town,MI,CSK,Chennai Super Kings,field,MI,19,runs,165,2009,"['1st', 'match,']"
+60,1,League,Rahul Dravid,Cape Town,RCB,RR,Royal Challengers Bangalore,bat,RCB,75,runs,133,2009,"['2nd', 'match']"
+61,2,League,Daniel Vettori,Cape Town,KXIP,DC,Delhi Daredevils,field,Daredevils,10,wicket,104,2009,"['3rd', 'match,']"
+62,3,League,RP Singh,Cape Town,KKR,DCH,Kolkata Knight Riders,bat,Chargers,8,wicket,101,2009,"['4th', 'match']"
+63,4,League,Muthiah Muralidaran,Gqeberha,CSK,RCB,Chennai Super Kings,bat,CSK,92,runs,179,2009,"['5th', 'match']"
+64,5,League,Chris Gayle,Durban,KXIP,KKR,Kolkata Knight Riders,field,KKR,11,runs,158,2009,"['6th', 'match,']"
+65,6,,,,,,,,,,,,2009,
+66,7,League,Adam Gilchrist,Cape Town,DCH,RCB,Deccan Chargers,bat,Chargers,24,runs,184,2009,"['8th', 'match']"
+67,8,League,AB de Villiers,Durban,DC,CSK,Delhi Daredevils,bat,Daredevils,9,runs,189,2009,"['9th', 'match,']"
+68,9,League,Yusuf Pathan,Cape Town,RR,KKR,Kolkata Knight Riders,field,Match,,runs,,2009,"['10th', 'match']"
+69,10,League,Ravi Bopara,Durban,RCB,KXIP,Royal Challengers Bangalore,bat,Kings,7,wicket,168,2009,"['11th', 'match']"
+70,11,League,Pragyan Ojha,Durban,DCH,MI,Deccan Chargers,bat,Chargers,12,runs,168,2009,"['12th', 'match,']"
+71,12,,,,,,,,,,,,2009,
+72,13,League,Tillakaratne Dilshan,Gqeberha,RCB,DC,Royal Challengers Bangalore,bat,Daredevils,6,wicket,149,2009,"['14th', 'match,']"
+73,14,League,Kumar Sangakkara,Cape Town,KXIP,RR,Kings XI Punjab,bat,Kings,27,runs,139,2009,"['15th', 'match']"
+74,15,League,Herschelle Gibbs,Durban,CSK,DCH,Deccan Chargers,field,Chargers,6,wicket,165,2009,"['16th', 'match,']"
+75,16,League,Sachin Tendulkar,Gqeberha,MI,KKR,Mumbai Indians,bat,MI,92,runs,187,2009,"['17th', 'match']"
+76,17,League,Yusuf Pathan,Centurion,DC,RR,Delhi Daredevils,bat,RR,5,wicket,143,2009,"['18th', 'match']"
+77,18,League,Mark Boucher,Durban,KKR,RCB,Kolkata Knight Riders,bat,RCB,5,wicket,139,2009,"['19th', 'match,']"
+78,19,League,Kumar Sangakkara,Durban,KXIP,MI,Kings XI Punjab,bat,Kings,3,runs,119,2009,"['20th', 'match']"
+79,20,League,Dirk Nannes,Centurion,DCH,DC,Delhi Daredevils,field,Daredevils,6,wicket,148,2009,"['21st', 'match,']"
+80,21,League,Suresh Raina,Centurion,CSK,RR,Rajasthan Royals,field,CSK,38,runs,164,2009,"['22nd', 'match']"
+81,22,League,Jean-Paul Duminy,East London,MI,KKR,Mumbai Indians,bat,MI,9,runs,148,2009,"['23rd', 'match,']"
+82,23,League,Yuvraj Singh,Durban,RCB,KXIP,Royal Challengers Bangalore,bat,RCB,8,runs,145,2009,"['24th', 'match']"
+83,24,League,Yusuf Pathan,Gqeberha,DCH,RR,Deccan Chargers,bat,RR,3,wicket,141,2009,"['25th', 'match,']"
+84,25,League,Shadab Jakati,Johannesburg,CSK,DC,Delhi Daredevils,field,CSK,18,runs,163,2009,"['26th', 'match']"
+85,26,League,Mahela Jayawardene,Gqeberha,KKR,KXIP,Kolkata Knight Riders,bat,Kings,6,wicket,153,2009,"['27th', 'match,']"
+86,27,League,Jacques Kallis,Johannesburg,MI,RCB,Mumbai Indians,bat,RCB,9,wicket,149,2009,"['28th', 'match']"
+87,28,League,MS Dhoni,East London,CSK,DCH,Chennai Super Kings,bat,CSK,78,runs,178,2009,"['29th', 'match']"
+88,29,League,Graeme Smith,Durban,RR,KXIP,Kings XI Punjab,field,RR,78,runs,211,2009,"['30th', 'match,']"
+89,30,League,Gautam Gambhir,Durban,KKR,DC,Kolkata Knight Riders,bat,Daredevils,9,wicket,154,2009,"['31st', 'match']"
+90,31,League,Rohit Sharma,Centurion,DCH,MI,Deccan Chargers,bat,Chargers,19,runs,145,2009,"['32nd', 'match']"
+91,32,League,Amit Singh,Centurion,RCB,RR,Rajasthan Royals,field,RR,7,wicket,105,2009,"['33rd', 'match,']"
+92,33,League,Matthew Hayden,Centurion,CSK,KXIP,Chennai Super Kings,bat,CSK,12,runs,185,2009,"['34th', 'match']"
+93,34,League,Ashish Nehra,East London,MI,DC,Mumbai Indians,bat,Daredevils,7,wicket,116,2009,"['35th', 'match']"
+94,35,League,Mahela Jayawardene,Kimberley,DCH,KXIP,Kings XI Punjab,field,Kings,3,wicket,168,2009,"['36th', 'match,']"
+95,36,League,S Badrinath,Kimberley,RR,CSK,Rajasthan Royals,bat,CSK,7,wicket,140,2009,"['37th', 'match']"
+96,37,League,Jean-Paul Duminy,Gqeberha,MI,RCB,Mumbai Indians,bat,MI,16,runs,157,2009,"['38th', 'match,']"
+97,38,League,Amit Mishra,Johannesburg,KKR,DC,Delhi Daredevils,field,Daredevils,7,wicket,123,2009,"['39th', 'match']"
+98,39,League,Dwayne Smith,Kimberley,DCH,RR,Deccan Chargers,bat,Chargers,53,runs,166,2009,"['40th', 'match']"
+99,40,League,Ross Taylor,Centurion,KKR,RCB,Royal Challengers Bangalore,field,RCB,6,wicket,173,2009,"['41st', 'match,']"
+100,41,League,Harbhajan Singh,Centurion,KXIP,MI,Kings XI Punjab,bat,MI,8,wicket,119,2009,"['42nd', 'match']"
+101,42,League,Rajat Bhatia,Durban,DC,DCH,Deccan Chargers,field,Daredevils,12,runs,173,2009,"['43rd', 'match']"
+102,43,League,Ross Taylor,Durban,CSK,RCB,Chennai Super Kings,bat,RCB,2,wicket,129,2009,"['44th', 'match,']"
+103,44,League,Shane Warne,Durban,RR,MI,Rajasthan Royals,bat,RR,2,runs,145,2009,"['45th', 'match']"
+104,45,League,Brett Lee,Bloemfontein,DC,KXIP,Kings XI Punjab,field,Kings,6,wicket,120,2009,"['46th', 'match']"
+105,46,League,Matthew Hayden,Gqeberha,MI,CSK,Mumbai Indians,bat,CSK,7,wicket,147,2009,"['47th', 'match,']"
+106,47,League,Rohit Sharma,Johannesburg,KKR,DCH,Deccan Chargers,field,Chargers,6,wicket,160,2009,"['48th', 'match']"
+107,48,League,Yuvraj Singh,Johannesburg,KXIP,DCH,Deccan Chargers,field,Kings,1,runs,134,2009,"['49th', 'match,']"
+108,49,League,AB de Villiers,Bloemfontein,DC,RR,Delhi Daredevils,bat,Daredevils,14,runs,150,2009,"['50th', 'match']"
+109,50,League,Brad Hodge,Centurion,CSK,KKR,Chennai Super Kings,bat,KKR,7,wicket,188,2009,"['51st', 'match']"
+110,51,League,Jacques Kallis,Johannesburg,DC,RCB,Delhi Daredevils,bat,RCB,7,wicket,134,2009,"['52nd', 'match']"
+111,52,League,Laxmi Shukla,Durban,RR,KKR,Kolkata Knight Riders,field,KKR,4,wicket,101,2009,"['53rd', 'match,']"
+112,53,League,Muthiah Muralidaran,Durban,CSK,KXIP,Chennai Super Kings,bat,CSK,24,runs,116,2009,"['54th', 'match']"
+113,54,League,Virender Sehwag,Centurion,MI,DC,Delhi Daredevils,field,Daredevils,4,wicket,165,2009,"['55th', 'match,']"
+114,55,League,Manish Pandey,Centurion,RCB,DCH,Royal Challengers Bangalore,bat,RCB,12,runs,170,2009,"['56th', 'match']"
+115,56,Final,Adam Gilchrist,Centurion,DC,DCH,Deccan Chargers,field,Chargers,6,wicket,153,2009,Final
+116,57,Final,Manish Pandey,Johannesburg,CSK,RCB,Royal Challengers Bangalore,field,RCB,6,wicket,146,2009,Final
+117,58,Final,Andrew Symonds,Johannesburg,DCH,RCB,Royal Challengers Bangalore,field,Chargers,6,runs,143,2009,Final
+118,0,League,Angelo Mathews,DY Patil,KKR,DCH,Deccan Chargers,field,KKR,11,runs,161,2010,"['1st', 'match']"
+119,1,League,Yusuf Pathan,Brabourne,MI,RR,Mumbai Indians,bat,MI,4,runs,212,2010,"['2nd', 'match']"
+120,2,League,Gautam Gambhir,Mohali,KXIP,DC,Delhi Daredevils,field,Daredevils,5,wicket,142,2010,"['3rd', 'match']"
+121,3,League,Manoj Tiwary,Eden Gardens,RCB,KKR,Kolkata Knight Riders,field,KKR,7,wicket,135,2010,"['4th', 'match']"
+122,4,League,Chaminda Vaas,Chennai,DCH,CSK,Deccan Chargers,bat,Chargers,31,runs,190,2010,"['5th', 'match']"
+123,5,League,Virender Sehwag,Ahmedabad,RR,DC,Delhi Daredevils,field,Daredevils,6,wicket,141,2010,"['6th', 'match']"
+124,6,League,Jacques Kallis,Bengaluru,KXIP,RCB,Kings XI Punjab,bat,RCB,8,wicket,203,2010,"['7th', 'match']"
+125,7,League,MS Dhoni,Eden Gardens,CSK,KKR,Chennai Super Kings,bat,CSK,55,runs,164,2010,"['8th', 'match']"
+126,8,League,Sachin Tendulkar,Delhi,MI,DC,Delhi Daredevils,field,MI,98,runs,218,2010,"['9th', 'match']"
+127,9,League,Jacques Kallis,Bengaluru,RR,RCB,Royal Challengers Bangalore,field,RCB,10,wicket,92,2010,"['10th', 'match']"
+128,10,League,Matthew Hayden,Delhi,DC,CSK,Delhi Daredevils,bat,CSK,5,wicket,185,2010,"['11th', 'match']"
+129,11,League,Andrew Symonds,Cuttack,DCH,KXIP,Kings XI Punjab,field,Chargers,6,runs,170,2010,"['12th', 'match']"
+130,12,League,Abhishek Jhunjhunwala,Ahmedabad,RR,KKR,Rajasthan Royals,bat,RR,34,runs,168,2010,"['13th', 'match']"
+131,13,League,Jacques Kallis,Brabourne,MI,RCB,Mumbai Indians,bat,RCB,7,wicket,151,2010,"['14th', 'match']"
+132,14,League,Andrew Symonds,Cuttack,DCH,DC,Deccan Chargers,bat,Chargers,10,runs,171,2010,"['15th', 'match']"
+133,15,League,Rusty Theron,Chennai,KXIP,CSK,Chennai Super Kings,field,Match,,runs,,2010,"['16th', 'match']"
+134,16,League,Sachin Tendulkar,Brabourne,KKR,MI,Kolkata Knight Riders,bat,MI,7,wicket,155,2010,"['17th', 'match']"
+135,17,League,Robin Uthappa,Bengaluru,RCB,CSK,Chennai Super Kings,field,RCB,36,runs,171,2010,"['18th', 'match']"
+136,18,League,Adam Voges,Mohali,RR,KXIP,Kings XI Punjab,field,RR,31,runs,183,2010,"['19th', 'match']"
+137,19,League,Kedar Jadhav,Bengaluru,DC,RCB,Royal Challengers Bangalore,field,Daredevils,17,runs,183,2010,"['20th', 'match']"
+138,20,League,Sachin Tendulkar,Brabourne,CSK,MI,Mumbai Indians,field,MI,5,wicket,180,2010,"['21st', 'match']"
+139,21,League,Yusuf Pathan,Ahmedabad,DCH,RR,Deccan Chargers,bat,RR,8,wicket,148,2010,"['22nd', 'match']"
+140,22,League,Manoj Tiwary,Mohali,KKR,KXIP,Kolkata Knight Riders,bat,KKR,39,runs,183,2010,"['23rd', 'match']"
+141,23,League,Naman Ojha,Ahmedabad,RR,CSK,Rajasthan Royals,bat,RR,17,runs,177,2010,"['24th', 'match']"
+142,24,League,Harbhajan Singh,DY Patil,MI,DCH,Deccan Chargers,field,MI,41,runs,172,2010,"['25th', 'match']"
+143,25,League,David Warner,Delhi,DC,KKR,Delhi Daredevils,bat,Daredevils,40,runs,177,2010,"['26th', 'match']"
+144,26,League,Lasith Malinga,Brabourne,KXIP,MI,Mumbai Indians,field,MI,4,wicket,163,2010,"['27th', 'match']"
+145,27,League,Murali Vijay,Chennai,RCB,CSK,Royal Challengers Bangalore,bat,CSK,5,wicket,161,2010,"['28th', 'match']"
+146,28,League,Dinesh Karthik,Delhi,DC,RR,Delhi Daredevils,bat,Daredevils,67,runs,188,2010,"['29th', 'match']"
+147,29,League,Sourav Ganguly,Eden Gardens,KKR,DCH,Kolkata Knight Riders,bat,KKR,24,runs,181,2010,"['30th', 'match']"
+148,30,League,Kevin Pietersen,Mohali,KXIP,RCB,Kings XI Punjab,bat,RCB,6,wicket,181,2010,"['31st', 'match']"
+149,31,League,Murali Vijay,Chennai,CSK,RR,Chennai Super Kings,bat,CSK,23,runs,246,2010,"['32nd', 'match']"
+150,32,League,Ambati Rayudu,Brabourne,MI,DCH,Mumbai Indians,bat,MI,63,runs,178,2010,"['33rd', 'match']"
+151,33,League,Mahela Jayawardene,Eden Gardens,KKR,KXIP,Kolkata Knight Riders,bat,Kings,8,wicket,200,2010,"['34th', 'match']"
+152,34,League,Paul Collingwood,Delhi,DC,RCB,Delhi Daredevils,bat,Daredevils,37,runs,184,2010,"['35th', 'match']"
+153,35,League,Shane Warne,Nagpur,RR,DCH,Rajasthan Royals,bat,RR,2,runs,159,2010,"['36th', 'match']"
+154,36,League,Suresh Raina,Chennai,CSK,MI,Chennai Super Kings,bat,CSK,24,runs,165,2010,"['37th', 'match']"
+155,37,League,Michael Lumb,Jaipur,KXIP,RR,Kings XI Punjab,bat,RR,9,wicket,153,2010,"['38th', 'match']"
+156,38,League,Sourav Ganguly,Eden Gardens,KKR,DC,Kolkata Knight Riders,bat,KKR,14,runs,181,2010,"['39th', 'match']"
+157,39,League,Tirumalasetti Suman,Bengaluru,RCB,DCH,Deccan Chargers,field,Chargers,7,wicket,184,2010,"['40th', 'match']"
+158,40,League,Kumar Sangakkara,Mohali,MI,KXIP,Mumbai Indians,bat,Kings,6,wicket,154,2010,"['41st', 'match']"
+159,41,League,Ryan Harris,Nagpur,CSK,DCH,Chennai Super Kings,bat,Chargers,6,wicket,138,2010,"['42nd', 'match']"
+160,42,League,Vinay Kumar,Bengaluru,KKR,RCB,Royal Challengers Bangalore,field,RCB,7,wicket,160,2010,"['43rd', 'match']"
+161,43,League,Piyush Chawla,Delhi,DC,KXIP,Delhi Daredevils,bat,Kings,7,wicket,111,2010,"['44th', 'match']"
+162,44,League,Sachin Tendulkar,Jaipur,MI,RR,Rajasthan Royals,field,MI,37,runs,174,2010,"['45th', 'match']"
+163,45,League,Harmeet Singh,Nagpur,DCH,RCB,Royal Challengers Bangalore,field,Chargers,13,runs,151,2010,"['46th', 'match']"
+164,46,League,Kieron Pollard,Brabourne,MI,DC,Mumbai Indians,bat,MI,39,runs,183,2010,"['47th', 'match']"
+165,47,League,Ravichandran Ashwin,Chennai,KKR,CSK,Kolkata Knight Riders,bat,CSK,9,wicket,139,2010,"['48th', 'match']"
+166,48,League,Kevin Pietersen,Jaipur,RR,RCB,Rajasthan Royals,bat,RCB,5,wicket,130,2010,"['49th', 'match']"
+167,49,League,Gautam Gambhir,Chennai,CSK,DC,Chennai Super Kings,bat,Daredevils,6,wicket,112,2010,"['50th', 'match']"
+168,50,League,Rohit Sharma,Dharamsala,KXIP,DCH,Deccan Chargers,field,Chargers,5,wicket,174,2010,"['51st', 'match']"
+169,51,League,Ryan McLaren,Bengaluru,MI,RCB,Royal Challengers Bangalore,field,MI,57,runs,191,2010,"['52nd', 'match']"
+170,52,League,Jaydev Unadkat,Eden Gardens,RR,KKR,Rajasthan Royals,bat,KKR,8,wicket,132,2010,"['53rd', 'match']"
+171,53,League,MS Dhoni,Dharamsala,KXIP,CSK,Chennai Super Kings,field,CSK,6,wicket,192,2010,"['54th', 'match']"
+172,54,League,Andrew Symonds,Delhi,DCH,DC,Deccan Chargers,bat,Chargers,11,runs,145,2010,"['55th', 'match']"
+173,55,League,Murali Kartik,Eden Gardens,MI,KKR,Mumbai Indians,bat,KKR,9,wicket,133,2010,"['56th', 'match']"
+174,56,Final,Kieron Pollard,DY Patil,MI,RCB,Mumbai Indians,bat,MI,35,runs,184,2010,Final
+175,57,Final,Doug Bollinger,DY Patil,CSK,DCH,Chennai Super Kings,bat,CSK,38,runs,142,2010,Final
+176,58,League,Anil Kumble,DY Patil,DCH,RCB,Deccan Chargers,bat,RCB,9,wicket,82,2010,"['3rd', 'Place']"
+177,59,Final,Suresh Raina,DY Patil,CSK,MI,Chennai Super Kings,bat,CSK,22,runs,168,2010,Final
+178,0,League,Srikkanth Anirudha,Chennai,CSK,KKR,Chennai Super Kings,bat,CSK,2,runs,153,2011,"['1st', 'match']"
+179,1,League,Siddharth Trivedi,Hyderabad,DCH,RR,Rajasthan Royals,field,RR,8,wicket,137,2011,"['2nd', 'match']"
+180,2,League,AB de Villiers,Kochi,Kochi,RCB,Kochi Tuskers Kerala,bat,RCB,6,wicket,161,2011,"['3rd', 'match']"
+181,3,League,Lasith Malinga,Delhi,DC,MI,Delhi Daredevils,bat,MI,8,wicket,95,2011,"['4th', 'match']"
+182,4,League,Shrikant Wagh,DY Patil,KXIP,PWI,Kings XI Punjab,bat,Warriors,7,wicket,112,2011,"['5th', 'match']"
+183,5,League,Jacques Kallis,Eden Gardens,KKR,DCH,Kolkata Knight Riders,bat,KKR,9,runs,163,2011,"['6th', 'match']"
+184,6,League,Shane Warne,Jaipur,DC,RR,Delhi Daredevils,bat,RR,6,wicket,151,2011,"['7th', 'match']"
+185,7,League,Sachin Tendulkar,Bengaluru,RCB,MI,Mumbai Indians,field,MI,9,wicket,140,2011,"['8th', 'match']"
+186,8,League,Paul Valthaty,Mohali,CSK,KXIP,Kings XI Punjab,field,Kings,6,wicket,188,2011,"['9th', 'match']"
+187,9,League,Mohnish  Mishra,DY Patil,Kochi,PWI,Kochi Tuskers Kerala,bat,Warriors,4,wicket,148,2011,"['10th', 'match']"
+188,10,League,Dale Steyn,Hyderabad,DCH,RCB,Royal Challengers Bangalore,field,Chargers,33,runs,175,2011,"['11th', 'match']"
+189,11,League,Gautam Gambhir,Jaipur,RR,KKR,Kolkata Knight Riders,field,KKR,9,wicket,159,2011,"['12th', 'match']"
+190,12,League,Brendon McCullum,Wankhede,MI,Kochi,Kochi Tuskers Kerala,field,Kochi,8,wicket,182,2011,"['13th', 'match']"
+191,13,League,Michael Hussey,Chennai,CSK,RCB,Chennai Super Kings,bat,CSK,21,runs,183,2011,"['14th', 'match']"
+192,14,League,Paul Valthaty,Hyderabad,DCH,KXIP,Kings XI Punjab,field,Kings,8,wicket,165,2011,"['15th', 'match']"
+193,15,League,Yuvraj Singh,DY Patil,PWI,DC,Delhi Daredevils,field,Daredevils,3,wicket,187,2011,"['16th', 'match']"
+194,16,League,Lakshmipathy Balaji,Eden Gardens,RR,KKR,Kolkata Knight Riders,field,KKR,8,wicket,81,2011,"['17th', 'match']"
+195,17,League,Brendon McCullum,Kochi,CSK,Kochi,Kochi Tuskers Kerala,field,Kochi,7,wicket,131,2011,"['18th', 'match']"
+196,18,League,Sunny Sohal,Delhi,DCH,DC,Deccan Chargers,bat,Chargers,16,runs,168,2011,"['19th', 'match']"
+197,19,,,,,,,,,,,,2011,
+198,20,League,Munaf Patel,Wankhede,PWI,MI,Pune Warriors,bat,MI,7,wicket,118,2011,"['21st', 'match']"
+199,21,League,Mahela Jayawardene,Eden Gardens,Kochi,KKR,Kolkata Knight Riders,field,Kochi,6,runs,132,2011,"['22nd', 'match']"
+200,22,League,Shaun Marsh,Mohali,KXIP,RR,Rajasthan Royals,field,Kings,48,runs,195,2011,"['23rd', 'match']"
+201,23,League,Chris Gayle,Eden Gardens,KKR,RCB,Royal Challengers Bangalore,field,RCB,9,wicket,171,2011,"['24th', 'match']"
+202,24,League,Harbhajan Singh,Wankhede,MI,CSK,Chennai Super Kings,field,MI,8,runs,164,2011,"['25th', 'match']"
+203,25,League,David Warner,Delhi,DC,KXIP,Kings XI Punjab,field,Daredevils,29,runs,231,2011,"['26th', 'match']"
+204,26,League,Lasith Malinga,Hyderabad,MI,DCH,Deccan Chargers,field,MI,37,runs,172,2011,"['27th', 'match']"
+205,27,League,Shane Warne,Jaipur,Kochi,RR,Rajasthan Royals,field,RR,8,wicket,109,2011,"['28th', 'match']"
+206,28,League,Michael Hussey,Chennai,CSK,PWI,Pune Warriors,field,CSK,25,runs,142,2011,"['29th', 'match']"
+207,29,League,Virat Kohli,Delhi,DC,RCB,Royal Challengers Bangalore,field,RCB,3,wicket,160,2011,"['30th', 'match']"
+208,30,League,Doug Bollinger,DY Patil,PWI,CSK,Pune Warriors,bat,CSK,8,wicket,141,2011,"['31st', 'match']"
+209,31,League,Ishant Sharma,Kochi,DCH,Kochi,Kochi Tuskers Kerala,field,Chargers,55,runs,129,2011,"['32nd', 'match']"
+210,32,League,Manoj Tiwary,Delhi,KKR,DC,Delhi Daredevils,field,KKR,17,runs,148,2011,"['33rd', 'match']"
+211,33,League,Johan Botha,Jaipur,MI,RR,Rajasthan Royals,field,RR,7,wicket,94,2011,"['34th', 'match']"
+212,34,League,Virat Kohli,Bengaluru,RCB,PWI,Pune Warriors,field,RCB,26,runs,181,2011,"['35th', 'match']"
+213,35,League,Virender Sehwag,Kochi,DC,Kochi,Delhi Daredevils,bat,Daredevils,38,runs,157,2011,"['36th', 'match']"
+214,36,League,Iqbal Abdulla,Eden Gardens,KXIP,KKR,Kolkata Knight Riders,field,KKR,8,wicket,119,2011,"['37th', 'match']"
+215,37,League,Ross Taylor,Jaipur,PWI,RR,Rajasthan Royals,field,RR,6,wicket,143,2011,"['38th', 'match']"
+216,38,League,Albie Morkel,Chennai,CSK,DCH,Chennai Super Kings,bat,CSK,19,runs,165,2011,"['39th', 'match']"
+217,39,League,Kieron Pollard,Wankhede,MI,KXIP,Kings XI Punjab,field,MI,23,runs,159,2011,"['40th', 'match']"
+218,40,League,Prasanth Parameswaran,Delhi,DC,Kochi,Kochi Tuskers Kerala,field,Kochi,7,wicket,140,2011,"['41st', 'match']"
+219,41,League,Yusuf Pathan,Hyderabad,KKR,DCH,Deccan Chargers,field,KKR,20,runs,169,2011,"['42nd', 'match']"
+220,42,League,Michael Hussey,Chennai,RR,CSK,Rajasthan Royals,bat,CSK,8,wicket,147,2011,"['43rd', 'match']"
+221,43,League,Rahul Sharma,DY Patil,MI,PWI,Pune Warriors,field,MI,21,runs,160,2011,"['44th', 'match']"
+222,44,League,Brad Hodge,Kochi,Kochi,KKR,Kolkata Knight Riders,field,Kochi,17,runs,156,2011,"['45th', 'match']"
+223,45,League,Virender Sehwag,Hyderabad,DCH,DC,Delhi Daredevils,field,Daredevils,4,wicket,175,2011,"['46th', 'match']"
+224,46,League,Chris Gayle,Bengaluru,RCB,KXIP,Kings XI Punjab,field,RCB,85,runs,205,2011,"['47th', 'match']"
+225,47,League,Iqbal Abdulla,Eden Gardens,CSK,KKR,Chennai Super Kings,bat,KKR,10,runs,114,2011,"['48th', 'match']"
+226,48,League,Ambati Rayudu,Wankhede,MI,DC,Delhi Daredevils,field,MI,32,runs,178,2011,"['49th', 'match']"
+227,49,League,Chris Gayle,Bengaluru,Kochi,RCB,Kochi Tuskers Kerala,bat,RCB,9,wicket,125,2011,"['50th', 'match']"
+228,50,League,Rahul Sharma,Mohali,KXIP,PWI,Kings XI Punjab,bat,Warriors,5,wicket,119,2011,"['51st', 'match']"
+229,51,League,Murali Vijay,Jaipur,CSK,RR,Rajasthan Royals,field,CSK,63,runs,196,2011,"['52nd', 'match']"
+230,52,League,Mitchell Marsh,Hyderabad,DCH,PWI,Deccan Chargers,bat,Warriors,6,wicket,136,2011,"['53rd', 'match']"
+231,53,League,Bhargav Bhatt,Mohali,KXIP,MI,Mumbai Indians,field,Kings,76,runs,163,2011,"['54th', 'match']"
+232,54,League,Sreenath Aravind,Jaipur,RR,RCB,Royal Challengers Bangalore,field,RCB,9,wicket,146,2011,"['55th', 'match']"
+233,55,League,MS Dhoni,Chennai,CSK,DC,Chennai Super Kings,bat,CSK,18,runs,176,2011,"['56th', 'match']"
+234,56,League,Dinesh Karthik,Indore,Kochi,KXIP,Kings XI Punjab,field,Kings,6,wicket,178,2011,"['57th', 'match']"
+235,57,League,Chris Gayle,Bengaluru,KKR,RCB,Royal Challengers Bangalore,field,RCB,4,wicket,89,2011,"['58th', 'match']"
+236,58,League,Amit Mishra,Wankhede,DCH,MI,Deccan Chargers,bat,Chargers,10,runs,135,2011,"['59th', 'match']"
+237,59,League,Piyush Chawla,Dharamsala,KXIP,DC,Delhi Daredevils,field,Kings,29,runs,170,2011,"['60th', 'match']"
+238,60,League,Brad Hodge,Indore,RR,Kochi,Kochi Tuskers Kerala,field,Kochi,8,wicket,97,2011,"['61st', 'match']"
+239,61,League,Amit Mishra,DY Patil,PWI,DCH,Deccan Chargers,field,Chargers,6,wicket,136,2011,"['62nd', 'match']"
+240,62,League,Adam Gilchrist,Dharamsala,KXIP,RCB,Kings XI Punjab,bat,Kings,111,runs,232,2011,"['63rd', 'match']"
+241,63,League,Wriddhiman Saha,Chennai,CSK,Kochi,Chennai Super Kings,bat,CSK,11,runs,152,2011,"['64th', 'match']"
+242,64,League,Yusuf Pathan,DY Patil,PWI,KKR,Kolkata Knight Riders,field,KKR,7,wicket,118,2011,"['65th', 'match']"
+243,65,League,Shane Watson,Wankhede,MI,RR,Mumbai Indians,bat,RR,10,wicket,133,2011,"['66th', 'match']"
+244,66,League,Shikhar Dhawan,Dharamsala,DCH,KXIP,Kings XI Punjab,field,Chargers,82,runs,198,2011,"['67th', 'match']"
+245,67,,,,,,,,,,,,2011,
+246,68,League,Chris Gayle,Bengaluru,CSK,RCB,Royal Challengers Bangalore,field,RCB,8,wicket,128,2011,"['69th', 'match']"
+247,69,League,James Franklin,Eden Gardens,KKR,MI,Mumbai Indians,field,MI,5,wicket,175,2011,"['70th', 'match']"
+248,70,Final,Suresh Raina,Wankhede,RCB,CSK,Chennai Super Kings,field,CSK,6,wicket,175,2011,Final
+249,71,Final,Munaf Patel,Wankhede,KKR,MI,Mumbai Indians,field,MI,4,wicket,147,2011,Final
+250,72,Final,Chris Gayle,Chennai,RCB,MI,Mumbai Indians,field,RCB,43,runs,185,2011,Final
+251,73,Final,Murali Vijay,Chennai,CSK,RCB,Chennai Super Kings,bat,CSK,58,runs,205,2011,Final
