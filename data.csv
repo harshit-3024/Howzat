@@ -1,5 +1,5 @@
 ,index,Match Type,POTM,Venue,Team1,Team2,Toss_Winner,Toss_Decision,Winner,Win_Margin,Result_Type,Target_Runs,Season,Match
-0,0,League,Ajinkya Rahane,Wankhede,MI,RPS,Mumbai Indians,bat,Supergiants,9,wicket,121,2016,"['1st', 'match']"
+0,0,,,,,,,,,,,,2016,
 1,1,League,Andre Russell,Eden Gardens,DC,KKR,Kolkata Knight Riders,field,KKR,9,wicket,98,2016,"['2nd', 'match']"
 2,2,League,Aaron Finch,Mohali,KXIP,GL,Gujarat Lions,field,Guj,5,wicket,161,2016,"['3rd', 'match']"
 3,3,League,AB de Villiers,Bengaluru,RCB,SRH,Sunrisers Hyderabad,field,RCB,45,runs,227,2016,"['4th', 'match']"
